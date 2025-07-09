@@ -1,2 +1,1 @@
-# QuantumAiKitSolutionsUltra
-Advanced QuantumAiKitSolutionsUltra project
+.
